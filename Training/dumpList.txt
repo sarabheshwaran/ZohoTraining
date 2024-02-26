@@ -1,0 +1,185 @@
+main RUNNABLE Lock Owned by : null
+
+Reference Handler RUNNABLE Lock Owned by : null
+
+Finalizer WAITING Lock Owned by : null
+
+Signal Dispatcher RUNNABLE Lock Owned by : null
+
+Common-Cleaner TIMED_WAITING Lock Owned by : null
+
+Thread extended thread TIMED_WAITING Lock Owned by : null
+
+Runnable implemented thread BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 0 BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 1 BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 2 BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 3 BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 4 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 0 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 1 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 2 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 3 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 4 BLOCKED Lock Owned by : Thread extended thread
+
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+
+main RUNNABLE Lock Owned by : null
+
+Reference Handler RUNNABLE Lock Owned by : null
+
+Finalizer WAITING Lock Owned by : null
+
+Signal Dispatcher RUNNABLE Lock Owned by : null
+
+Common-Cleaner TIMED_WAITING Lock Owned by : null
+
+Thread extended thread TIMED_WAITING Lock Owned by : null
+
+Runnable implemented thread BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 0 BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 1 BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 2 BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 3 BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 4 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 0 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 1 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 2 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 3 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 4 BLOCKED Lock Owned by : Thread extended thread
+
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+
+main RUNNABLE Lock Owned by : null
+
+Reference Handler RUNNABLE Lock Owned by : null
+
+Finalizer WAITING Lock Owned by : null
+
+Signal Dispatcher RUNNABLE Lock Owned by : null
+
+Common-Cleaner TIMED_WAITING Lock Owned by : null
+
+Thread extended thread TIMED_WAITING Lock Owned by : null
+
+Runnable implemented thread BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 0 BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 1 BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 2 BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 3 BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 4 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 0 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 1 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 2 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 3 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 4 BLOCKED Lock Owned by : Thread extended thread
+
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+
+main RUNNABLE Lock Owned by : null
+
+Reference Handler RUNNABLE Lock Owned by : null
+
+Finalizer WAITING Lock Owned by : null
+
+Signal Dispatcher RUNNABLE Lock Owned by : null
+
+Common-Cleaner TIMED_WAITING Lock Owned by : null
+
+Thread extended thread TIMED_WAITING Lock Owned by : null
+
+Runnable implemented thread BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 0 BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 1 BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 2 BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 3 BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 4 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 0 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 1 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 2 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 3 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 4 BLOCKED Lock Owned by : Thread extended thread
+
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+
+main RUNNABLE Lock Owned by : null
+
+Reference Handler RUNNABLE Lock Owned by : null
+
+Finalizer WAITING Lock Owned by : null
+
+Signal Dispatcher RUNNABLE Lock Owned by : null
+
+Common-Cleaner TIMED_WAITING Lock Owned by : null
+
+Thread extended thread TIMED_WAITING Lock Owned by : null
+
+Runnable implemented thread BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 0 BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 1 BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 2 BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 3 BLOCKED Lock Owned by : Thread extended thread
+
+extThread - 4 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 0 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 1 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 2 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 3 BLOCKED Lock Owned by : Thread extended thread
+
+runThread - 4 BLOCKED Lock Owned by : Thread extended thread
+
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+
