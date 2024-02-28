@@ -275,7 +275,7 @@ public class TestRunner {
 					stringList.add("Sadsf");
 					stringList.add("g ,fd");
 					
-					
+					System.out.println(regHelper.validateEmail("dualipa@ail.m"));
 					
 					Map<Integer, String> map = regHelper.regexMapping(regList, stringList);
 

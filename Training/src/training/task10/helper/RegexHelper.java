@@ -23,7 +23,7 @@ public class RegexHelper {
 	public boolean validateEmail(String email) throws CustomException {
 
 		HelperUtils.nullCheck(email);
-		return Pattern.matches("^[a-zA-Z0-9]+@[a-zA-Z0-9-]+\\.[a-zA-Z]{2,5}$", email);
+		return Pattern.matches("^[a-zA-Z0-9]+@[a-zA-Z0-9]+\\.[a-zA-Z]{2,5}$", email);
 
 	}
 	
